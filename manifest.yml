@@ -1,0 +1,4 @@
+applications:
+	name:jesmond
+	memory:256mb
+	random-route:true
